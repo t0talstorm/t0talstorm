@@ -1,3 +1,9 @@
+###
+
+<h2 align="left">Hi 👋! My name is Aditya Sinha and I'm a Student, from Symbiosis Institute of Technology !</h2>
+
+###
+
 <br clear="both">
 
 <picture>
@@ -5,12 +11,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t0talstorm/t0talstorm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/t0talstorm/t0talstorm/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<h2 align="left">Hi 👋! My name is Aditya Sinha and I'm a Student, from Symbiosis Institute of Technology !</h2>
-
-###
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=t0talstorm.t0talstorm&"  />
