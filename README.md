@@ -12,6 +12,14 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=t0talstorm.t0talstorm&"  />
+</div>
+
+###
+
+###
+
 <br clear="both">
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/f5/e7/c3/f5e7c3890ab84895bdb1f89ac6ba4069.jpg"  />
@@ -62,10 +70,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t0talstorm&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=t0talstorm.t0talstorm&"  />
-</div>
-
-###
