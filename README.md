@@ -13,6 +13,7 @@
 </picture>
 
 <div align="left">
+  <img src= "https://img.shields.io/github/followers/t0talstorm?label=Followers&style=flat&color=green" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=t0talstorm.t0talstorm&"  />
 </div>
 
